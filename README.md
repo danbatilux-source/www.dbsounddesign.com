@@ -1,2 +1,2 @@
-# www.dbsounddesign.com
+# www.dbsounds.com
 My official portfolio page. Contains my sound design and music work for video games.
